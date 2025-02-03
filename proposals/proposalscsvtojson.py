@@ -22,8 +22,13 @@ with open(csv_filename, mode="r", encoding="utf-8") as file:
     for row in csv_reader:
         data.append(row)
 
+# Count the number of proposals
+num_proposals = len(data)
+
 # Write the data to a JSON file
 with open(json_filename, mode="w", encoding="utf-8") as json_file:
     json.dump(data, json_file, indent=4)
 
+# Print the count of proposals and conversion success message
+print(f"Number of proposals: {num_proposals}")
 print(f"CSV file '{csv_filename}' has been successfully converted to JSON file '{json_filename}'.")

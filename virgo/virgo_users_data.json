@@ -1,19 +1,9 @@
 [
     {
-        "username": "allegedmist",
-        "isactive": "True",
-        "address": "0x1CC1C54314c7feC2c3020a40a6cD9D1C4A44ED90",
-        "type": "halo",
-        "istypeActive": "True",
-        "isDarklist": "True",
-        "isActiveDarklist": "True",
-        "stakeAmount": "800000000"
-    },
-    {
         "username": "fiercejug",
         "isactive": "True",
         "address": "0xfFa5Aeba892602A8069c9417A2e95cb0498DdF42",
-        "type": "halo",
+        "type": "powehi",
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
@@ -27,7 +17,7 @@
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
-        "stakeAmount": "3400500000"
+        "stakeAmount": "3400000000"
     },
     {
         "username": "stolidslag",
@@ -37,7 +27,7 @@
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
-        "stakeAmount": "14500000000"
+        "stakeAmount": "15179000000"
     },
     {
         "username": "soothingcandy",
@@ -57,7 +47,7 @@
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
-        "stakeAmount": "16600000000"
+        "stakeAmount": "15725000000"
     },
     {
         "username": "nonalignedresident",
@@ -67,7 +57,7 @@
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
-        "stakeAmount": "1000000000"
+        "stakeAmount": "511433333"
     },
     {
         "username": "coytong",
@@ -90,20 +80,10 @@
         "stakeAmount": "90000000"
     },
     {
-        "username": "transientnotary",
-        "isactive": "True",
-        "address": "0xCD1EfBAC8e37E92268bA83903026a6C34b3803Db",
-        "type": "powehi",
-        "istypeActive": "True",
-        "isDarklist": "True",
-        "isActiveDarklist": "True",
-        "stakeAmount": "1600000000"
-    },
-    {
         "username": "raggedoffence",
         "isactive": "True",
         "address": "0xb2890992e7152106f70176adf93a7CFEdB246880",
-        "type": "halo",
+        "type": "powehi",
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
@@ -130,24 +110,14 @@
         "stakeAmount": "5295679853"
     },
     {
-        "username": "governingpreface",
+        "username": "high-poweredincrease",
         "isactive": "True",
-        "address": "0x95506499FdF750671C751C1E4498a870A2cc1Cd7",
+        "address": "0xBF9FE9379CE3BFfa603eD5B42FaeF6e524091044",
         "type": "powehi",
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
-        "stakeAmount": "19999999999"
-    },
-    {
-        "username": "high-poweredincrease",
-        "isactive": "True",
-        "address": "0xBF9FE9379CE3BFfa603eD5B42FaeF6e524091044",
-        "type": "halo",
-        "istypeActive": "True",
-        "isDarklist": "True",
-        "isActiveDarklist": "True",
-        "stakeAmount": "683499628"
+        "stakeAmount": "700000000"
     },
     {
         "username": "regulatedriverbank",
@@ -167,17 +137,7 @@
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
-        "stakeAmount": "1496662217"
-    },
-    {
-        "username": "ruddyoiler",
-        "isactive": "True",
-        "address": "0x209a9021993D50Bd767783563C4a9c0cbc601199",
-        "type": "powehi",
-        "istypeActive": "True",
-        "isDarklist": "True",
-        "isActiveDarklist": "True",
-        "stakeAmount": "4414461945"
+        "stakeAmount": "1706200000"
     },
     {
         "username": "emeritustumbleweed",
@@ -220,14 +180,14 @@
         "stakeAmount": "2100000000"
     },
     {
-        "username": "pedagogicalturkey",
+        "username": "geologicalcrucifix",
         "isactive": "True",
-        "address": "0x4faFB5ea6ec25231cEdA005936fF44B9acf6988c",
-        "type": "powehi",
+        "address": "0x8B130Dc7A75f24Be64486b03C90CbBc178196c07",
+        "type": "halo",
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
-        "stakeAmount": "1130798966"
+        "stakeAmount": "120000000"
     },
     {
         "username": "unsavoryinstallation",
@@ -243,7 +203,7 @@
         "username": "lewdlanding",
         "isactive": "True",
         "address": "0x435733c6C9CB9f400EDF11E0bCB6f9151E66f702",
-        "type": "halo",
+        "type": "powehi",
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
@@ -253,21 +213,21 @@
         "username": "eccentriccaterer",
         "isactive": "True",
         "address": "0x4c6F91306c993Ac5864adCf818B1c958Bb19254a",
-        "type": "halo",
+        "type": "powehi",
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
-        "stakeAmount": "900000000"
+        "stakeAmount": "600000000"
     },
     {
         "username": "highgaze",
         "isactive": "True",
         "address": "0x1B69c4A788aD8f940e624341AB45c731D01190De",
-        "type": "halo",
+        "type": "powehi",
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
-        "stakeAmount": "599100000"
+        "stakeAmount": "1099100000"
     },
     {
         "username": "waterycrotch",
@@ -277,7 +237,7 @@
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
-        "stakeAmount": "3000000000"
+        "stakeAmount": "2500000000"
     },
     {
         "username": "scrapingborough",
@@ -287,7 +247,7 @@
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
-        "stakeAmount": "5427101763"
+        "stakeAmount": "1000000000"
     },
     {
         "username": "truepredisposition",
@@ -307,7 +267,7 @@
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
-        "stakeAmount": "379107105"
+        "stakeAmount": "427356619"
     },
     {
         "username": "exhaustingstaircase",
@@ -323,7 +283,7 @@
         "username": "fertilizedbreach",
         "isactive": "True",
         "address": "0x7e47dC1bCFE29640262Edb39BE4663C19BccefC9",
-        "type": "halo",
+        "type": "powehi",
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
@@ -338,16 +298,6 @@
         "isDarklist": "True",
         "isActiveDarklist": "True",
         "stakeAmount": "1020000000"
-    },
-    {
-        "username": "horridforeboding",
-        "isactive": "True",
-        "address": "0xf0C1B0109865BdAf4Aa490492FC0590B9E7c96c7",
-        "type": "halo",
-        "istypeActive": "True",
-        "isDarklist": "True",
-        "isActiveDarklist": "True",
-        "stakeAmount": "179881000"
     },
     {
         "username": "dictatorialscrub",
@@ -380,14 +330,14 @@
         "stakeAmount": "200000000"
     },
     {
-        "username": "stringentabolition",
+        "username": "baggyterrace",
         "isactive": "True",
-        "address": "0x4436AAcD68D4A7862160F9d41D733ae39B8BD38D",
-        "type": "halo",
+        "address": "0x1a496dF91Fc5321A1f00719De0A7BB4f9Aa9B2DC",
+        "type": "powehi",
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
-        "stakeAmount": "600000000"
+        "stakeAmount": "930281736"
     },
     {
         "username": "ominousscarf",
@@ -407,7 +357,7 @@
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
-        "stakeAmount": "2400000000"
+        "stakeAmount": "1500000000"
     },
     {
         "username": "bravelunchroom",
@@ -463,7 +413,7 @@
         "username": "selectedbug",
         "isactive": "True",
         "address": "0xC17e6241f91F8E8F195edccafF3BEADeB27cc62c",
-        "type": "halo",
+        "type": "powehi",
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
@@ -473,11 +423,11 @@
         "username": "benignbureau",
         "isactive": "True",
         "address": "0x3a1a8c6102b00D7e2eC677bD10469e8Ed32241a3",
-        "type": "halo",
+        "type": "powehi",
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
-        "stakeAmount": "332175632"
+        "stakeAmount": "1332175632"
     },
     {
         "username": "circularmoney",
@@ -503,7 +453,7 @@
         "username": "contemptiblenuisance",
         "isactive": "True",
         "address": "0xc76E030cB575DDab2A9208782138310F59093382",
-        "type": "halo",
+        "type": "powehi",
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
@@ -523,31 +473,21 @@
         "username": "alienatedscoreboard",
         "isactive": "True",
         "address": "0x7Eed832baB21534Bf8437668a3E4e2e82935730f",
-        "type": "halo",
+        "type": "powehi",
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
         "stakeAmount": "500000000"
     },
     {
-        "username": "undevelopedhalloo",
+        "username": "mercantilefirebrand",
         "isactive": "True",
-        "address": "0xC105729E5c85DE7df03e55856f371e8E7eCE096A",
-        "type": "halo",
+        "address": "0x61d7ecE32854CaF46c6304Fd536704EacD4dA256",
+        "type": "powehi",
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
-        "stakeAmount": "136227349"
-    },
-    {
-        "username": "materialisticsuperstition",
-        "isactive": "True",
-        "address": "0x7F3e00b2094EdfBcDB983cEC3d27290387399B98",
-        "type": "halo",
-        "istypeActive": "True",
-        "isDarklist": "True",
-        "isActiveDarklist": "True",
-        "stakeAmount": "200000000"
+        "stakeAmount": "1196817278"
     },
     {
         "username": "plantedbook",
@@ -568,6 +508,16 @@
         "isDarklist": "True",
         "isActiveDarklist": "True",
         "stakeAmount": "534000000"
+    },
+    {
+        "username": "physicalliberation",
+        "isactive": "True",
+        "address": "0x02278E7633343e04c831E889E042C479Bc2BDebC",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "401007007"
     },
     {
         "username": "immunesquirrel",
@@ -660,6 +610,16 @@
         "stakeAmount": "183038139"
     },
     {
+        "username": "bindingshire",
+        "isactive": "True",
+        "address": "0x9b1DaDb8D6AFC4a9b5A13B808281C962D468e050",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "200000000"
+    },
+    {
         "username": "constructivequestion",
         "isactive": "True",
         "address": "0xdF31a736B4C85Dc860194b74bB6201a29855699F",
@@ -690,44 +650,14 @@
         "stakeAmount": "89957461"
     },
     {
-        "username": "implausiblehive",
-        "isactive": "True",
-        "address": "0x0F5E04319EBe32776aAdAE5f0b9D3c633EC5894E",
-        "type": "halo",
-        "istypeActive": "True",
-        "isDarklist": "False",
-        "isActiveDarklist": "False",
-        "stakeAmount": "300000000"
-    },
-    {
-        "username": "nutsblacklist",
-        "isactive": "True",
-        "address": "0x0cF0b528Da125c7F3d69F4352753441292f33527",
-        "type": "halo",
-        "istypeActive": "True",
-        "isDarklist": "False",
-        "isActiveDarklist": "False",
-        "stakeAmount": "198850000"
-    },
-    {
-        "username": "unrestrictedtriad",
-        "isactive": "True",
-        "address": "0xBAa9B7B74DF9d446198d2e3C08f71Ad34539fC4D",
-        "type": "halo",
-        "istypeActive": "True",
-        "isDarklist": "True",
-        "isActiveDarklist": "True",
-        "stakeAmount": "200000000"
-    },
-    {
         "username": "inorganicprivacy",
         "isactive": "True",
         "address": "0x85670832a6E56e7Dd0D2aC3fDF089531972516C6",
-        "type": "halo",
+        "type": "powehi",
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
-        "stakeAmount": "770874901"
+        "stakeAmount": "1204568844"
     },
     {
         "username": "crackingvalise",
@@ -745,9 +675,9 @@
         "address": "0x2721D28690ACe1045FaBe0A662e2a0f9951eC4eA",
         "type": "halo",
         "istypeActive": "True",
-        "isDarklist": "False",
-        "isActiveDarklist": "False",
-        "stakeAmount": "370484262"
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "397060128"
     },
     {
         "username": "across-the-boardcontinent",
@@ -756,7 +686,7 @@
         "type": "halo",
         "istypeActive": "True",
         "isDarklist": "True",
-        "isActiveDarklist": "False",
+        "isActiveDarklist": "True",
         "stakeAmount": "204376979"
     },
     {
@@ -768,16 +698,6 @@
         "isDarklist": "True",
         "isActiveDarklist": "True",
         "stakeAmount": "439650035"
-    },
-    {
-        "username": "unwelcomemistrial",
-        "isactive": "True",
-        "address": "0x7cC3584a23434fE0f4Cc92c86a5d116917C2ADc4",
-        "type": "powehi",
-        "istypeActive": "True",
-        "isDarklist": "True",
-        "isActiveDarklist": "True",
-        "stakeAmount": "7000000000"
     },
     {
         "username": "conscientioushoarding",
@@ -820,14 +740,14 @@
         "stakeAmount": "119834832"
     },
     {
-        "username": "overcomeshaft",
+        "username": "institutionalswagger",
         "isactive": "True",
-        "address": "0x0115FEeBFADc209a6a24E288041DF9ccB3C19075",
+        "address": "0xea6f93E30963eC1bfC4721a90Ea619CC77D144BE",
         "type": "halo",
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
-        "stakeAmount": "201007007"
+        "stakeAmount": "105024513"
     },
     {
         "username": "aquaticpsychosis",
@@ -840,6 +760,26 @@
         "stakeAmount": "87000000"
     },
     {
+        "username": "okayperfection",
+        "isactive": "True",
+        "address": "0x3739cF6DE9D491E6FA4F136a0F6886577e4bfFFd",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "90000000"
+    },
+    {
+        "username": "supersonichighball",
+        "isactive": "True",
+        "address": "0x8131C9a14Ef3b2927752a9dE573a2dEAaf18E727",
+        "type": "powehi",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "875000000"
+    },
+    {
         "username": "reflectedastronomer",
         "isactive": "True",
         "address": "0x635c047141eEC74f5f444870578AD6C6872436F7",
@@ -848,16 +788,6 @@
         "isDarklist": "True",
         "isActiveDarklist": "False",
         "stakeAmount": "172400176"
-    },
-    {
-        "username": "traditionalarchive",
-        "isactive": "True",
-        "address": "0xF973134ed7330bA26328b570Ddc06ca9f57B9b43",
-        "type": "halo",
-        "istypeActive": "True",
-        "isDarklist": "True",
-        "isActiveDarklist": "True",
-        "stakeAmount": "628007107"
     },
     {
         "username": "plannedinference",
@@ -870,13 +800,23 @@
         "stakeAmount": "121512698"
     },
     {
+        "username": "lockedformat",
+        "isactive": "True",
+        "address": "0xFE65154036bBD13013f8a786b6aeF8023087866E",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "88000000"
+    },
+    {
         "username": "sponsoredjuke",
         "isactive": "True",
         "address": "0x274e6132A3dC4Bc6Ce3068102D981b17768e130F",
         "type": "halo",
         "istypeActive": "True",
         "isDarklist": "True",
-        "isActiveDarklist": "False",
+        "isActiveDarklist": "True",
         "stakeAmount": "184688400"
     },
     {
@@ -890,12 +830,32 @@
         "stakeAmount": "1878909281"
     },
     {
+        "username": "daintyfur",
+        "isactive": "True",
+        "address": "0x79B1C338bb0B7aEbef82211Cb9d184c0A9C9AAeF",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "201007007"
+    },
+    {
+        "username": "salientexemption",
+        "isactive": "True",
+        "address": "0x53E448227b2a59F7fD034ae0d9F3312505069889",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "89116156"
+    },
+    {
         "username": "legitimaterailroad",
         "isactive": "True",
         "address": "0xe7F5358dbc68c5C2A74b2E4314fa721B7A3F82e5",
         "type": "halo",
         "istypeActive": "True",
-        "isDarklist": "False",
+        "isDarklist": "True",
         "isActiveDarklist": "False",
         "stakeAmount": "117315985"
     },
@@ -903,7 +863,7 @@
         "username": "characteristicrifle",
         "isactive": "True",
         "address": "0x3a37E9Dd1dCb7A774B18848Edf38586DE8202b44",
-        "type": "halo",
+        "type": "powehi",
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
@@ -920,14 +880,14 @@
         "stakeAmount": "103809426"
     },
     {
-        "username": "uprootedexistence",
+        "username": "creakingharlot",
         "isactive": "True",
-        "address": "0xB105D1F38ac8799C873311BF44057b6e06113dac",
-        "type": "halo",
+        "address": "0x031403cC1613F625F4D825287ae14077533770E6",
+        "type": "powehi",
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "True",
-        "stakeAmount": "536108342"
+        "stakeAmount": "2000000000"
     },
     {
         "username": "exceptionalmosque",
@@ -936,7 +896,7 @@
         "type": "powehi",
         "istypeActive": "True",
         "isDarklist": "True",
-        "isActiveDarklist": "False",
+        "isActiveDarklist": "True",
         "stakeAmount": "10597716973"
     },
     {
@@ -946,18 +906,18 @@
         "type": "halo",
         "istypeActive": "True",
         "isDarklist": "True",
-        "isActiveDarklist": "False",
+        "isActiveDarklist": "True",
         "stakeAmount": "118315730"
     },
     {
-        "username": "impassionedventilator",
+        "username": "aromaticjetty",
         "isactive": "True",
-        "address": "0x9e3D762aEA407706B8B262Bf5889E69775dc6f9E",
-        "type": "halo",
+        "address": "0xb8BeA176A8Fe69939718D466c999a0AAb0656a0b",
+        "type": "powehi",
         "istypeActive": "True",
         "isDarklist": "True",
-        "isActiveDarklist": "False",
-        "stakeAmount": "324571910"
+        "isActiveDarklist": "True",
+        "stakeAmount": "628757107"
     },
     {
         "username": "wealthytooth",
@@ -966,7 +926,7 @@
         "type": "halo",
         "istypeActive": "True",
         "isDarklist": "True",
-        "isActiveDarklist": "False",
+        "isActiveDarklist": "True",
         "stakeAmount": "152507625"
     },
     {
@@ -976,8 +936,18 @@
         "type": "halo",
         "istypeActive": "True",
         "isDarklist": "True",
-        "isActiveDarklist": "False",
+        "isActiveDarklist": "True",
         "stakeAmount": "92409499"
+    },
+    {
+        "username": "ever-presentmaximum",
+        "isactive": "True",
+        "address": "0xDaCF10A8F4e0B7A182eD303ca6387239e8fe55Cf",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "218157249"
     },
     {
         "username": "sluggishloner",
@@ -986,7 +956,7 @@
         "type": "powehi",
         "istypeActive": "True",
         "isDarklist": "True",
-        "isActiveDarklist": "False",
+        "isActiveDarklist": "True",
         "stakeAmount": "4576807106"
     },
     {
@@ -995,19 +965,19 @@
         "address": "0x8fa0955047c2792964c3BdC7D07b065c3Ebc85CF",
         "type": "halo",
         "istypeActive": "True",
-        "isDarklist": "True",
+        "isDarklist": "False",
         "isActiveDarklist": "False",
-        "stakeAmount": "87000001"
+        "stakeAmount": "87000000"
     },
     {
         "username": "darkeningcinema",
         "isactive": "True",
         "address": "0x1b7518d3B45D22595AdBE9C3C99F75508dc062De",
-        "type": "halo",
+        "type": "powehi",
         "istypeActive": "True",
         "isDarklist": "True",
-        "isActiveDarklist": "False",
-        "stakeAmount": "323558430"
+        "isActiveDarklist": "True",
+        "stakeAmount": "514148508"
     },
     {
         "username": "unacceptableblotter",
@@ -1016,8 +986,18 @@
         "type": "powehi",
         "istypeActive": "True",
         "isDarklist": "True",
-        "isActiveDarklist": "False",
+        "isActiveDarklist": "True",
         "stakeAmount": "1050000000"
+    },
+    {
+        "username": "horse-drawnairliner",
+        "isactive": "True",
+        "address": "0x908b14ECa8099CC08f41A875A855b86a85F2e4C4",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "87283140"
     },
     {
         "username": "glamorousbilge",
@@ -1026,8 +1006,18 @@
         "type": "halo",
         "istypeActive": "True",
         "isDarklist": "True",
-        "isActiveDarklist": "False",
+        "isActiveDarklist": "True",
         "stakeAmount": "359643487"
+    },
+    {
+        "username": "hardworkinghome",
+        "isactive": "True",
+        "address": "0x39e0D379A9A03079914933D9917007F8C3B44a75",
+        "type": "powehi",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "500447003"
     },
     {
         "username": "unfriendlypriority",
@@ -1035,19 +1025,9 @@
         "address": "0x2869C2bc6e8f7f6BDA72cdA2446B68753E67Af0E",
         "type": "halo",
         "istypeActive": "True",
-        "isDarklist": "False",
-        "isActiveDarklist": "False",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
         "stakeAmount": "92451666"
-    },
-    {
-        "username": "inscrutablestudio",
-        "isactive": "True",
-        "address": "0xF3A5Dd0d8e975D56871643efAF899FFB693152dA",
-        "type": "halo",
-        "istypeActive": "True",
-        "isDarklist": "False",
-        "isActiveDarklist": "False",
-        "stakeAmount": "186946287"
     },
     {
         "username": "navalwinning",
@@ -1056,7 +1036,7 @@
         "type": "halo",
         "istypeActive": "True",
         "isDarklist": "True",
-        "isActiveDarklist": "False",
+        "isActiveDarklist": "True",
         "stakeAmount": "150000000"
     },
     {
@@ -1066,18 +1046,18 @@
         "type": "halo",
         "istypeActive": "True",
         "isDarklist": "True",
-        "isActiveDarklist": "False",
-        "stakeAmount": "462994841"
+        "isActiveDarklist": "True",
+        "stakeAmount": "495895253"
     },
     {
-        "username": "conscientiousribbon",
+        "username": "frenchsealer",
         "isactive": "True",
-        "address": "0x682FD32d16B13f938B9e0685ad3e0AcDC6cD4C47",
+        "address": "0x05D32b5956C5E3d57A6F56Df9F2c7D6e1fcB0BE7",
         "type": "halo",
         "istypeActive": "True",
         "isDarklist": "True",
-        "isActiveDarklist": "False",
-        "stakeAmount": "150493293"
+        "isActiveDarklist": "True",
+        "stakeAmount": "399601422"
     },
     {
         "username": "furnishednet",
@@ -1086,28 +1066,18 @@
         "type": "halo",
         "istypeActive": "True",
         "isDarklist": "True",
-        "isActiveDarklist": "False",
-        "stakeAmount": "140000000"
+        "isActiveDarklist": "True",
+        "stakeAmount": "260000000"
     },
     {
         "username": "convenientstride",
         "isactive": "True",
         "address": "0xdFA9f1Dcda9BDE39D735C9840699B306d0c3d752",
-        "type": "halo",
-        "istypeActive": "True",
-        "isDarklist": "True",
-        "isActiveDarklist": "True",
-        "stakeAmount": "768000000"
-    },
-    {
-        "username": "covertchoreographer",
-        "isactive": "True",
-        "address": "0x54F251B53b70cD3C0D43dc2FB22704E6C0B4677e",
         "type": "powehi",
         "istypeActive": "True",
         "isDarklist": "True",
-        "isActiveDarklist": "False",
-        "stakeAmount": "1000000000"
+        "isActiveDarklist": "True",
+        "stakeAmount": "1048014632"
     },
     {
         "username": "jumpyattribution",
@@ -1116,8 +1086,18 @@
         "type": "halo",
         "istypeActive": "True",
         "isDarklist": "True",
-        "isActiveDarklist": "False",
+        "isActiveDarklist": "True",
         "stakeAmount": "100615195"
+    },
+    {
+        "username": "assertivefoothold",
+        "isactive": "True",
+        "address": "0xb8c7fF16648086D4BF299C4fB87C07aA91b41603",
+        "type": "powehi",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "1001000000"
     },
     {
         "username": "well-educatedprivacy",
@@ -1130,23 +1110,553 @@
         "stakeAmount": "401234567"
     },
     {
+        "username": "agitatedback-up",
+        "isactive": "True",
+        "address": "0x11E25C8EFd86eEaC8bb9Aa3bA891CC32f9e64B7D",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "300000000"
+    },
+    {
         "username": "interpersonalvaccination",
         "isactive": "True",
         "address": "0x403e5DC7e1C12B1B7A8698d5C4042A378fFA71B6",
         "type": "halo",
         "istypeActive": "True",
         "isDarklist": "True",
-        "isActiveDarklist": "False",
+        "isActiveDarklist": "True",
         "stakeAmount": "347706756"
     },
     {
         "username": "illustriouscatapult",
         "isactive": "True",
         "address": "0x019b0EB930c33B3900e5d6e4991B5f791A0E632e",
+        "type": "powehi",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "2000000000"
+    },
+    {
+        "username": "pointlessmortise",
+        "isactive": "True",
+        "address": "0x0e328adB26a431f85aABCB65257F7a0428F6640B",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "102103715"
+    },
+    {
+        "username": "timelesscontact",
+        "isactive": "True",
+        "address": "0x04EE9c4D479cee1042fE0D6792CAcBeC3E246888",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "87396212"
+    },
+    {
+        "username": "conicaldamp",
+        "isactive": "True",
+        "address": "0x98eaeA37c5ec6fdA773891f23385080095F16985",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "150000000"
+    },
+    {
+        "username": "repetitivehuddle",
+        "isactive": "True",
+        "address": "0xB2eeb70db0D62307CdbC1442fD4411Fe75Fd3Cf0",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "125089711"
+    },
+    {
+        "username": "curvingserpent",
+        "isactive": "True",
+        "address": "0xB767082357641045CbEa321DcE2FD5f8574fAC28",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "100000000"
+    },
+    {
+        "username": "complacentgamete",
+        "isactive": "True",
+        "address": "0x9dDd524bF0171814229275b3E76BC460F38e88A3",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "167989619"
+    },
+    {
+        "username": "wiryfirehouse",
+        "isactive": "True",
+        "address": "0x2829532830899a2d921364A62fe80e3269E924d2",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "390065603"
+    },
+    {
+        "username": "four-hourridgeline",
+        "isactive": "True",
+        "address": "0xBE39db360dC4b845C725E2F6E6728D2245AE9E77",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "165000000"
+    },
+    {
+        "username": "bitteralleyway",
+        "isactive": "True",
+        "address": "0x7604F163F2DE20042712F5ca648fc85b5D2F2b60",
+        "type": "powehi",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "False",
+        "stakeAmount": "641235753"
+    },
+    {
+        "username": "repressedtiara",
+        "isactive": "True",
+        "address": "0xFc2D8fbE41d2e671e324f1dBf46eB167aF2985fB",
         "type": "halo",
         "istypeActive": "True",
         "isDarklist": "True",
         "isActiveDarklist": "False",
+        "stakeAmount": "541863667"
+    },
+    {
+        "username": "aimlesssteamboat",
+        "isactive": "True",
+        "address": "0x0AF32aF1f3f0aC0B36F6a18a833e3eeF250f0888",
+        "type": "powehi",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "False",
+        "stakeAmount": "513042922"
+    },
+    {
+        "username": "grizzledrouter",
+        "isactive": "True",
+        "address": "0x458Cec900E363f8d568dc1Ff758f28Aae92fA73e",
+        "type": "powehi",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "4000000000"
+    },
+    {
+        "username": "mundaneforepaw",
+        "isactive": "True",
+        "address": "0xe8dbBa8ac8411Ee9F51FB4A2FEBA1A10243dba84",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "False",
+        "stakeAmount": "323844506"
+    },
+    {
+        "username": "grimstew",
+        "isactive": "True",
+        "address": "0x7445f6c2478f74bBEbdce5A85Bf9178798A9A781",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "247435503"
+    },
+    {
+        "username": "mournfuljamb",
+        "isactive": "True",
+        "address": "0xffecCa49f44B7a9C4576Ab1Df109b4d15a43833E",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "False",
+        "stakeAmount": "286313299"
+    },
+    {
+        "username": "cosmicexertion",
+        "isactive": "True",
+        "address": "0x06a440b99924b0935ECF30D1708d1E92056E607c",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "253799013"
+    },
+    {
+        "username": "magneticeavesdropper",
+        "isactive": "True",
+        "address": "0xe53c1ca0EfC8EeCa70fF77eA5c0672BEC02469B3",
+        "type": "powehi",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "1964399444"
+    },
+    {
+        "username": "furrytaboo",
+        "isactive": "True",
+        "address": "0x4ec472014A5c3C59182741cBbBB24F97384dD307",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
         "stakeAmount": "87000000"
+    },
+    {
+        "username": "priorfrieze",
+        "isactive": "True",
+        "address": "0xde07e190555f2bc82824009DCf1a3BeF5F1De9bC",
+        "type": "powehi",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "501231318"
+    },
+    {
+        "username": "telescopicgamete",
+        "isactive": "True",
+        "address": "0x0554319609b5a5451fF893Ba89887C16E1d8ED63",
+        "type": "powehi",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "500000000"
+    },
+    {
+        "username": "soybeanclanking",
+        "isactive": "True",
+        "address": "0x164B2145A18577EbD4fF68D91756dCb9Cb32131f",
+        "type": "powehi",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "2086013352"
+    },
+    {
+        "username": "lacylation",
+        "isactive": "True",
+        "address": "0x1c66f8A8fa9D34D26b6767cca81E4f0fb8F0692f",
+        "type": "powehi",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "500972960"
+    },
+    {
+        "username": "happynumber",
+        "isactive": "True",
+        "address": "0x009E2EF736DE40161d4E617cbb2749552F0f8060",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "196794071"
+    },
+    {
+        "username": "uphilltick",
+        "isactive": "True",
+        "address": "0x024b8DCbF956a7874615B4F6A493fd5fBC2FB04B",
+        "type": "powehi",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "1000000000"
+    },
+    {
+        "username": "unmarriedrave",
+        "isactive": "True",
+        "address": "0xD9b1F01710DA84bA31392fF5A279f8B7F49ACD03",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "87000000"
+    },
+    {
+        "username": "disorientedseaplane",
+        "isactive": "True",
+        "address": "0x855AdC1E3339d7a32Ab091b61784265984452269",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "False",
+        "isActiveDarklist": "False",
+        "stakeAmount": "310000000"
+    },
+    {
+        "username": "income-taxpoetess",
+        "isactive": "True",
+        "address": "0x406D3619c9F998fdc73564f3D72a5eb85Be71776",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "False",
+        "stakeAmount": "200000000"
+    },
+    {
+        "username": "inquisitivebacterium",
+        "isactive": "True",
+        "address": "0xc649a7165ffAEE42eB73840A8Faf6eE4c9441AcC",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "123000000"
+    },
+    {
+        "username": "architecturalglob",
+        "isactive": "True",
+        "address": "0xaE5C50251017Ad218700F875DcE2f20fF783Ce1f",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "False",
+        "stakeAmount": "122966197"
+    },
+    {
+        "username": "adamanttoehold",
+        "isactive": "True",
+        "address": "0xeB4d60B9863A4b3c18a10FbB7F410dc505720C7B",
+        "type": "powehi",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "5226899648"
+    },
+    {
+        "username": "snarlingsparkle",
+        "isactive": "True",
+        "address": "0xe54965f527cdb6e98213d01dee640a54aab6191a",
+        "type": "powehi",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "767347784"
+    },
+    {
+        "username": "painedstitch",
+        "isactive": "True",
+        "address": "0xd66E8E3821A9B261b29b992Ab32C07123ECF7F11",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "400000000"
+    },
+    {
+        "username": "deadlyliberation",
+        "isactive": "True",
+        "address": "0x2f883772E5D9d3B0A227e08FF7f76f318D87Ca55",
+        "type": "powehi",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "2363636363"
+    },
+    {
+        "username": "earthenlimousine",
+        "isactive": "True",
+        "address": "0x4211eb9929395530D37f3B65B21AA31a0edc655A",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "100212778"
+    },
+    {
+        "username": "absorbinginvasion",
+        "isactive": "True",
+        "address": "0x82bdee47362C2f9244126974E451421054187B12",
+        "type": "powehi",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "1200000000"
+    },
+    {
+        "username": "infantiledisavowal",
+        "isactive": "True",
+        "address": "0x7e60F5890637B3194219447eaF6c426a7c66748B",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "False",
+        "stakeAmount": "270000000"
+    },
+    {
+        "username": "unrecognizedartificiality",
+        "isactive": "True",
+        "address": "0x05c0Eb3FBD3c4E26FeEb57c5b777EcC7Dc1ED69d",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "200000000"
+    },
+    {
+        "username": "movableadjective",
+        "isactive": "True",
+        "address": "0x077C64316c010E617FCFb941534a966e2579C7A8",
+        "type": "powehi",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "19999999999"
+    },
+    {
+        "username": "fondwedding",
+        "isactive": "True",
+        "address": "0x190417184a9a19386C29022399D6B291fAC6C92D",
+        "type": "powehi",
+        "istypeActive": "True",
+        "isDarklist": "False",
+        "isActiveDarklist": "False",
+        "stakeAmount": "1000000000"
+    },
+    {
+        "username": "perniciouscasket",
+        "isactive": "True",
+        "address": "0xCB72C9A1BA946E04B8d4e6AedC864c643635dDF6",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "False",
+        "isActiveDarklist": "False",
+        "stakeAmount": "100000000"
+    },
+    {
+        "username": "escalatinganthropoid",
+        "isactive": "True",
+        "address": "0x0B5658E4Bb125beBcc9a13c9781E7446cB32b657",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "90782945"
+    },
+    {
+        "username": "white-collarwalleye",
+        "isactive": "True",
+        "address": "0x705642f070B954769a0CBA43cCfD6Deb8eE9AeCD",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "292811541"
+    },
+    {
+        "username": "unsympatheticbaseline",
+        "isactive": "True",
+        "address": "0x0F743614aae385786145d7f16e34edd581A1b13A",
+        "type": "powehi",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "1423706971"
+    },
+    {
+        "username": "depressingkingpin",
+        "isactive": "True",
+        "address": "0x3A770AC919E2edEB8775D87696a47f5476bd8Af1",
+        "type": "powehi",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "False",
+        "stakeAmount": "2635000000"
+    },
+    {
+        "username": "meagerapplication",
+        "isactive": "True",
+        "address": "0x64Ecd311fc68CEA97b9650efa633a806231f8f31",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "120000000"
+    },
+    {
+        "username": "unpleasantforeword",
+        "isactive": "True",
+        "address": "0xf6FeF22af75D4D60cA01eE1A667216DCdE1B26D4",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "False",
+        "stakeAmount": "91000000"
+    },
+    {
+        "username": "flatteredgun",
+        "isactive": "True",
+        "address": "0xa7f7c5eb8cba24545f2e0a16a8111fb8cf9f0034",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "False",
+        "stakeAmount": "245908674"
+    },
+    {
+        "username": "necessarymerry-go-round",
+        "isactive": "True",
+        "address": "0x04046d16f5b1778c8645c3df2e6211260221c44c",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "200000000"
+    },
+    {
+        "username": "imaginarycyclone",
+        "isactive": "True",
+        "address": "0x740560a984d3f8f83f0e7f9be3ae87500bfa3699",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "False",
+        "stakeAmount": "90000000"
+    },
+    {
+        "username": "oilykhaki",
+        "isactive": "True",
+        "address": "0x093358570c35e2e26af3cb36335538ecb34e91c6",
+        "type": "powehi",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "False",
+        "stakeAmount": "500000000"
+    },
+    {
+        "username": "formlessdrummer",
+        "isactive": "True",
+        "address": "0xa37d936add30991faa17cf89d14f318861f64a47",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "False",
+        "stakeAmount": "262142234"
+    },
+    {
+        "username": "sleepingwashboard",
+        "isactive": "True",
+        "address": "0x4ed137c0ada31fbc77b44482154e4f1a83f53dfe",
+        "type": "halo",
+        "istypeActive": "True",
+        "isDarklist": "True",
+        "isActiveDarklist": "True",
+        "stakeAmount": "200000000"
     }
 ]
