@@ -1,7 +1,10 @@
 import requests
 import json
+
+proposals_file_path = "proposals/proposals_data.json"
+virgo_file_path = "virgo/virgo_users_data.json"
 # Read JSON data
-with open("proposals_data.json", 'r') as file:
+with open(virgo_file_path, 'r') as file:
     json_data = json.load(file)
 
 # Upload to JSONBlob (LazyAPI)
